@@ -5,6 +5,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.Test;
 
+
 public class string {
 	@Test
 	public void test1() {
