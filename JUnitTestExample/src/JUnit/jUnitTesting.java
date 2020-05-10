@@ -3,11 +3,11 @@ package JUnit;
 
 public class jUnitTesting {
 	
-	int addNumbers(int a,int b) {
+	public int addNumbers(int a,int b) {
 		return a+b;
 	}
 	
-	String addString(String a,String b) {
+	public String addString(String a,String b) {
 		return a+b;
 	}
 
