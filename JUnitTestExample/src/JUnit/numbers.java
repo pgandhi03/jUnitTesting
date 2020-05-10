@@ -6,7 +6,6 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.Test;
 
 public class numbers {
-
 	@Test
 	public void test1() {
 		jUnitTesting junit = new jUnitTesting();
